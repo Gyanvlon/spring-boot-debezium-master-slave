@@ -1,4 +1,5 @@
 # Spring Boot Debezium - Master Slave Real Project Example
+![image](https://github.com/user-attachments/assets/9356ad41-8f30-4428-b5f7-bd4caadfe82b)
 
 ### In this demo, we will explore how to implement Change Data Capture (CDC) in a master-slave architecture using Spring Boot and Debezium. 
 
